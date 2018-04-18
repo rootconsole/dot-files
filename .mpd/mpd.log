@@ -1,0 +1,386 @@
+Mar 30 22:19 : config: inotify: auto_update was disabled. enable during compilation phase
+Mar 30 22:19 : config: option 'enabled' on line 20 was not recognized
+Mar 30 22:19 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:19 : update: added iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/06 All Is As All Should Be.mp3
+Mar 30 22:19 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:19 : update: added iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/05 Witness Me.mp3
+Mar 30 22:19 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:19 : update: added iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/03 Beyond the Pale.mp3
+Mar 30 22:19 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:19 : update: added iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/04 Shake Me (Awake).mp3
+Mar 30 22:19 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:19 : update: added iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/02 Blame Paradise.mp3
+Mar 30 22:19 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:19 : update: added iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/01 The Right Wrong.mp3
+Mar 30 22:19 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/VoiceMessage.wav
+Mar 30 22:19 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Apple Beep.wav
+Mar 30 22:20 : config: inotify: auto_update was disabled. enable during compilation phase
+Mar 30 22:20 : config: option 'enabled' on line 20 was not recognized
+Mar 30 22:20 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:20 : update: added iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/06 All Is As All Should Be.mp3
+Mar 30 22:20 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:20 : update: added iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/05 Witness Me.mp3
+Mar 30 22:20 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:20 : update: added iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/03 Beyond the Pale.mp3
+Mar 30 22:20 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:20 : update: added iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/04 Shake Me (Awake).mp3
+Mar 30 22:20 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:20 : update: added iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/02 Blame Paradise.mp3
+Mar 30 22:20 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:20 : update: added iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/01 The Right Wrong.mp3
+Mar 30 22:20 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/VoiceMessage.wav
+Mar 30 22:20 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Apple Beep.wav
+Mar 30 22:20 : client: [0] opened from 127.0.0.1:54860
+Mar 30 22:21 : client: [0] closed
+Mar 30 22:22 : config: inotify: auto_update was disabled. enable during compilation phase
+Mar 30 22:22 : config: option 'enabled' on line 20 was not recognized
+Mar 30 22:22 : client: [0] opened from 127.0.0.1:54872
+Mar 30 22:23 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:23 : client: [0] closed
+Mar 30 22:23 : player: played "iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/01 The Right Wrong.mp3"
+Mar 30 22:24 : config: inotify: auto_update was disabled. enable during compilation phase
+Mar 30 22:24 : config: option 'enabled' on line 20 was not recognized
+Mar 30 22:24 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:24 : client: [0] opened from 127.0.0.1:54881
+Mar 30 22:27 : client: [0] closed
+Mar 30 22:27 : player: played "iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/01 The Right Wrong.mp3"
+Mar 30 22:28 : config: inotify: auto_update was disabled. enable during compilation phase
+Mar 30 22:28 : config: option 'enabled' on line 26 was not recognized
+Mar 30 22:28 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:28 : client: [0] opened from 127.0.0.1:54910
+Mar 30 22:30 : player: played "iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/01 The Right Wrong.mp3"
+Mar 30 22:30 : client: [0] closed
+Mar 30 22:37 : client: [1] opened from 127.0.0.1:55083
+Mar 30 22:37 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:38 : client: [1] closed
+Mar 30 22:38 : client: [2] opened from 127.0.0.1:55119
+Mar 30 22:38 : client: [2] closed
+Mar 30 22:40 : client: [3] opened from 127.0.0.1:55130
+Mar 30 22:40 : client: [3] closed
+Mar 30 22:41 : client: [4] opened from 127.0.0.1:55137
+Mar 30 22:42 : player: played "iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/01 The Right Wrong.mp3"
+Mar 30 22:42 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:43 : client: [4] closed
+Mar 30 22:44 : client: [5] opened from 127.0.0.1:55267
+Mar 30 22:44 : client: [5] closed
+Mar 30 22:46 : player: played "iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/02 Blame Paradise.mp3"
+Mar 30 22:50 : client: [6] opened from 127.0.0.1:55394
+Mar 30 22:50 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:51 : client: [6] closed
+Mar 30 22:51 : client: [7] opened from 127.0.0.1:55399
+Mar 30 22:52 : client: [7] closed
+Mar 30 22:53 : player: played "iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/02 Blame Paradise.mp3"
+Mar 30 22:53 : config: inotify: auto_update was disabled. enable during compilation phase
+Mar 30 22:53 : config: option 'enabled' on line 26 was not recognized
+Mar 30 22:53 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:53 : client: [0] opened from 127.0.0.1:55447
+Mar 30 22:54 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:55 : client: [0] closed
+Mar 30 22:55 : player: played "iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/04 Shake Me (Awake).mp3"
+Mar 30 22:56 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 22:56 : config: inotify: auto_update was disabled. enable during compilation phase
+Mar 30 22:56 : config: option 'enabled' on line 26 was not recognized
+Mar 30 22:56 : client: [0] opened from 127.0.0.1:55505
+Mar 30 22:57 : client: [0] closed
+Mar 30 22:58 : player: played "iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/04 Shake Me (Awake).mp3"
+Mar 30 23:01 : config: inotify: auto_update was disabled. enable during compilation phase
+Mar 30 23:01 : config: option 'enabled' on line 27 was not recognized
+Mar 30 23:01 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:01 : client: [0] opened from 127.0.0.1:55590
+Mar 30 23:02 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:02 : player: played "iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/04 Shake Me (Awake).mp3"
+Mar 30 23:02 : client: [0] closed
+Mar 30 23:02 : client: [1] opened from 127.0.0.1:55593
+Mar 30 23:06 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:07 : player: played "iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/05 Witness Me.mp3"
+Mar 30 23:15 : player: played "iTunes/iTunes Media/Music/The Dear Hunter/All Is As All Should Be/06 All Is As All Should Be.mp3"
+Mar 30 23:21 : client: [1] closed
+Mar 30 23:21 : client: [2] opened from 127.0.0.1:55688
+Mar 30 23:21 : client: [2] closed
+Mar 30 23:22 : config: inotify: auto_update was disabled. enable during compilation phase
+Mar 30 23:22 : config: option 'enabled' on line 27 was not recognized
+Mar 30 23:22 : client: [0] opened from 127.0.0.1:55694
+Mar 30 23:22 : client: [0] closed
+Mar 30 23:23 : config: inotify: auto_update was disabled. enable during compilation phase
+Mar 30 23:23 : config: option 'enabled' on line 27 was not recognized
+Mar 30 23:23 : client: [0] opened from 127.0.0.1:55707
+Mar 30 23:23 : client: [0] closed
+Mar 30 23:24 : client: [1] opened from 127.0.0.1:55713
+Mar 30 23:24 : client: [1] closed
+Mar 30 23:26 : config: inotify: auto_update was disabled. enable during compilation phase
+Mar 30 23:26 : config: option 'enabled' on line 27 was not recognized
+Mar 30 23:26 : update: added Act II_ The Meaning of & All Things Rega/01 The Death and the Berth.mp3
+Mar 30 23:26 : update: added Act II_ The Meaning of & All Things Rega/14 Black Sandy Beaches.mp3
+Mar 30 23:26 : update: added Act II_ The Meaning of & All Things Rega/10 Blood of the Rose.mp3
+Mar 30 23:26 : update: added Act II_ The Meaning of & All Things Rega/15 Vital Vessle Vindicates.mp3
+Mar 30 23:26 : update: added Act II_ The Meaning of & All Things Rega/11 Red Hands.mp3
+Mar 30 23:26 : update: added Act II_ The Meaning of & All Things Rega/09 Evicted.mp3
+Mar 30 23:26 : update: added Act II_ The Meaning of & All Things Rega/13 Dear Ms. Leading.mp3
+Mar 30 23:26 : update: added Act II_ The Meaning of & All Things Rega/08 Smiling Swine.mp3
+Mar 30 23:26 : update: added Act II_ The Meaning of & All Things Rega/04 The Oracles on the Delphi Expres.mp3
+Mar 30 23:26 : update: added Act II_ The Meaning of & All Things Rega/05 The Church and The Dime.mp3
+Mar 30 23:26 : update: added Act II_ The Meaning of & All Things Rega/02 The Procession.mp3
+Mar 30 23:26 : update: added Act II_ The Meaning of & All Things Rega/07 The Bitter Suite 3_ Embrace.mp3
+Mar 30 23:26 : update: added Act II_ The Meaning of & All Things Rega/03 The Lake and the River.mp3
+Mar 30 23:26 : update: added Act II_ The Meaning of & All Things Rega/12 Where The Road Parts.mp3
+Mar 30 23:26 : update: added Act II_ The Meaning of & All Things Rega/06 The Bitter Suite 1 and 2_ Meetin.mp3
+Mar 30 23:26 : update: added The Six Parts Seven - Everywhere and Right Here/07 Blueprint of Something Never Finished.mp3
+Mar 30 23:26 : update: added The Six Parts Seven - Everywhere and Right Here/03 Saving Words for Making Sense.mp3
+Mar 30 23:26 : update: added The Six Parts Seven - Everywhere and Right Here/01 What You Love You Must Love Now.mp3
+Mar 30 23:26 : update: added The Six Parts Seven - Everywhere and Right Here/08 Night Long.mp3
+Mar 30 23:26 : update: added The Six Parts Seven - Everywhere and Right Here/04 This One or That One.mp3
+Mar 30 23:26 : update: added The Six Parts Seven - Everywhere and Right Here/05 What (Can We Just Make Out).mp3
+Mar 30 23:26 : update: added The Six Parts Seven - Everywhere and Right Here/02 Already Elsewhere.mp3
+Mar 30 23:26 : update: added The Six Parts Seven - Everywhere and Right Here/06 Quick Fire - The Man I Fell in Love With.mp3
+Mar 30 23:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:26 : update: added The Dear Hunter - The Migrations Annex (2013)/03 - Like Crazy.mp3
+Mar 30 23:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:26 : update: added The Dear Hunter - The Migrations Annex (2013)/06 - The Love.mp3
+Mar 30 23:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:26 : update: added The Dear Hunter - The Migrations Annex (2013)/01 - Dig Your Own Grave.mp3
+Mar 30 23:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:26 : update: added The Dear Hunter - The Migrations Annex (2013)/05 - Owls.mp3
+Mar 30 23:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:26 : update: added The Dear Hunter - The Migrations Annex (2013)/04 - Old Demons.mp3
+Mar 30 23:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:26 : update: added The Dear Hunter - The Migrations Annex (2013)/02 - Middle Ground.mp3
+Mar 30 23:26 : update: added /The.Walking.Dead.S08E13.Do.Not.Send.Us.Astray.720p.AMZN.WEB-DL.DD+5.1.H.264-CasStudio[eztv].mkv
+Mar 30 23:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:26 : update: added 05 - มาลีฮวนน่า - บุปผาชน/บุปผาชน - 01 - ลมเพ-ลมพัด.MP3
+Mar 30 23:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:26 : update: added 05 - มาลีฮวนน่า - บุปผาชน/บุปผาชน - 04 - นิรันดร์.MP3
+Mar 30 23:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:26 : update: added 05 - มาลีฮวนน่า - บุปผาชน/บุปผาชน - 07 - หัวใจพรือโฉ้.MP3
+Mar 30 23:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:26 : update: added 05 - มาลีฮวนน่า - บุปผาชน/บุปผาชน - 09 - รักสาวพรานนก.MP3
+Mar 30 23:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:26 : update: added 05 - มาลีฮวนน่า - บุปผาชน/บุปผาชน - 06 - เรือรักกระดาษ.MP3
+Mar 30 23:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:26 : update: added 05 - มาลีฮวนน่า - บุปผาชน/บุปผาชน - 03 - วิถีคนจร.MP3
+Mar 30 23:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:26 : update: added 05 - มาลีฮวนน่า - บุปผาชน/บุปผาชน - 08 - ลานนม-ลมเน.MP3
+Mar 30 23:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:26 : update: added 05 - มาลีฮวนน่า - บุปผาชน/บุปผาชน - 02 - หัวใจละเหี่ย.MP3
+Mar 30 23:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:26 : update: added 05 - มาลีฮวนน่า - บุปผาชน/บุปผาชน - 10 - ชุ่มฉ่ำในดวงใจ.MP3
+Mar 30 23:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:26 : update: added 05 - มาลีฮวนน่า - บุปผาชน/บุปผาชน - 05 - ไปไกล.MP3
+Mar 30 23:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:26 : update: added Act III_ Life and Death/11 Go Get Your Gun.m4a
+Mar 30 23:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:26 : update: added Act III_ Life and Death/07 Mustard Gas.m4a
+Mar 30 23:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:26 : update: added Act III_ Life and Death/06 The Thief.m4a
+Mar 30 23:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:26 : update: added Act III_ Life and Death/04 The Tank.m4a
+Mar 30 23:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:26 : update: added Act III_ Life and Death/14 Life and Death.m4a
+Mar 30 23:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:26 : update: added Act III_ Life and Death/01 Writing On A Wall.m4a
+Mar 30 23:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:26 : update: added Act III_ Life and Death/17 Movement 1.m4a
+Mar 30 23:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:26 : update: added Act III_ Life and Death/18 Movement 2.m4a
+Mar 30 23:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:26 : update: added Act III_ Life and Death/05 The Poison Woman.m4a
+Mar 30 23:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:26 : update: added Act III_ Life and Death/10 This Beautiful Life.m4a
+Mar 30 23:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:26 : update: added Act III_ Life and Death/03 What it Means to be Alone.m4a
+Mar 30 23:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:26 : update: added Act III_ Life and Death/09 He Said he had a Story.m4a
+Mar 30 23:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:26 : update: added Act III_ Life and Death/15 Writing on a Wall (a capella).m4a
+Mar 30 23:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:26 : update: added Act III_ Life and Death/08 Saved.m4a
+Mar 30 23:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:26 : update: added Act III_ Life and Death/02 In Cauda Venenum.m4a
+Mar 30 23:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:26 : update: added Act III_ Life and Death/16 Untitled 1.m4a
+Mar 30 23:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:26 : update: added Act III_ Life and Death/13 Father.m4a
+Mar 30 23:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:26 : update: added Act III_ Life and Death/12 Son.m4a
+Mar 30 23:26 : update: added The Six Parts Seven - Casually Smashed to Pieces (2007)/The Six Parts Seven - 07 - Night Behind The Stars.mp3
+Mar 30 23:26 : update: added The Six Parts Seven - Casually Smashed to Pieces (2007)/The Six Parts Seven - 01 - Conversation Heart.mp3
+Mar 30 23:26 : update: added The Six Parts Seven - Casually Smashed to Pieces (2007)/The Six Parts Seven - 06 - Confusing Possibilities.mp3
+Mar 30 23:26 : update: added The Six Parts Seven - Casually Smashed to Pieces (2007)/The Six Parts Seven - 04 - Falling Over Everything.mp3
+Mar 30 23:26 : update: added The Six Parts Seven - Casually Smashed to Pieces (2007)/The Six Parts Seven - 08 - Everything Wrong Is Right Again.mp3
+Mar 30 23:26 : update: added The Six Parts Seven - Casually Smashed to Pieces (2007)/The Six Parts Seven - 02 - Stolen Moments.mp3
+Mar 30 23:26 : update: added The Six Parts Seven - Casually Smashed to Pieces (2007)/The Six Parts Seven - 03 - Knock At My Door.mp3
+Mar 30 23:26 : update: added The Six Parts Seven - Casually Smashed to Pieces (2007)/The Six Parts Seven - 05 - Awaiting Elemental Meltdown.mp3
+Mar 30 23:26 : update: added Act I_ The Lake South, The River North/03 City Escape.mp3
+Mar 30 23:26 : update: added Act I_ The Lake South, The River North/04 The Inquiry Of Ms. Terri.mp3
+Mar 30 23:26 : update: added Act I_ The Lake South, The River North/08 The River North.mp3
+Mar 30 23:26 : update: added Act I_ The Lake South, The River North/01 Battesimo del Fuoco.mp3
+Mar 30 23:26 : update: added Act I_ The Lake South, The River North/02 The Lake South.mp3
+Mar 30 23:26 : update: added Act I_ The Lake South, The River North/07 His Hands Matched His Tongue.mp3
+Mar 30 23:26 : update: added Act I_ The Lake South, The River North/05 _1878.mp3
+Mar 30 23:26 : update: added Act I_ The Lake South, The River North/06 The Pimp And The Priest.mp3
+Mar 30 23:26 : update: added /The.Walking.Dead.S08E12.720p.HDTV.x264-AVS[eztv].mkv
+Mar 30 23:26 : client: [0] opened from 127.0.0.1:55797
+Mar 30 23:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:27 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:27 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:29 : client: [0] closed
+Mar 30 23:29 : client: [1] opened from 127.0.0.1:55858
+Mar 30 23:29 : client: [1] closed
+Mar 30 23:30 : player: played "The Dear Hunter - The Migrations Annex (2013)/05 - Owls.mp3"
+Mar 30 23:30 : client: [2] opened from 127.0.0.1:55884
+Mar 30 23:31 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Mar 30 23:32 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Mar 30 23:33 : client: [2] closed
+Mar 30 23:33 : player: played "The Six Parts Seven - Casually Smashed to Pieces (2007)/The Six Parts Seven - 01 - Conversation Heart.mp3"
+Mar 30 23:33 : config: inotify: auto_update was disabled. enable during compilation phase
+Mar 30 23:33 : config: option 'enabled' on line 27 was not recognized
+Mar 30 23:33 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Mar 30 23:33 : client: [0] opened from 127.0.0.1:55937
+Mar 30 23:33 : player: played "The Six Parts Seven - Casually Smashed to Pieces (2007)/The Six Parts Seven - 01 - Conversation Heart.mp3"
+Mar 30 23:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:34 : update: added Job 2 Do - No War/01 - Kun So.m4a
+Mar 30 23:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:34 : update: added Job 2 Do - No War/03 - Do To Tam.m4a
+Mar 30 23:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:34 : update: added Job 2 Do - No War/06 - Sang Ka O.m4a
+Mar 30 23:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:34 : update: added Job 2 Do - No War/07 - Lai King.m4a
+Mar 30 23:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:34 : update: added Job 2 Do - No War/08 - Bang Tet.m4a
+Mar 30 23:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:34 : update: added Job 2 Do - No War/04 - Mong Hai.m4a
+Mar 30 23:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:34 : update: added Job 2 Do - No War/05 - No War.m4a
+Mar 30 23:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:34 : update: added Job 2 Do - No War/02 - Kamlang Gai.m4a
+Mar 30 23:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:34 : update: added Job 2 Do - No War/09 - Pieng Sak Kang.m4a
+Mar 30 23:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:34 : update: added Job 2 Do - No War/11 - Ragge Ok Hack.m4a
+Mar 30 23:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:34 : update: added Job 2 Do - No War/10 - Ko Payam.m4a
+Mar 30 23:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:34 : player: played "Job 2 Do - No War/01 - Kun So.m4a"
+Mar 30 23:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:37 : player: played "Job 2 Do - No War/01 - Kun So.m4a"
+Mar 30 23:39 : client: [0] closed
+Mar 30 23:39 : client: [1] opened from 127.0.0.1:56075
+Mar 30 23:39 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 30 23:43 : client: [1] closed
+Mar 30 23:46 : client: [2] opened from 127.0.0.1:56227
+Mar 30 23:59 : update: added CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/07 - Don't Spoil It.mp3
+Mar 30 23:59 : update: added CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/11 - Astral Traveling (feat. Vinnie Paz).mp3
+Mar 30 23:59 : update: added CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/01 - Take Your Medicine.mp3
+Mar 30 23:59 : update: added CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/09 - Bomb Thrown.mp3
+Mar 30 23:59 : update: added CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/16 - Sleeping Dogs.mp3
+Mar 30 23:59 : update: added CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/14 - MF Czar.mp3
+Mar 30 23:59 : update: added CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/02 - Meddle with Metal.mp3
+Mar 30 23:59 : update: added CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/15 - Captain Brunch.mp3
+Mar 30 23:59 : update: added CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/13 - Stun Gun.mp3
+Mar 30 23:59 : update: added CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/03 - Badness of Madness.mp3
+Mar 30 23:59 : update: added CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/12 - Nautical Depth.mp3
+Mar 30 23:59 : update: added CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/04 - Close Talker.mp3
+Mar 30 23:59 : update: added CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/10 - You Masked For It.mp3
+Mar 30 23:59 : update: added CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/05 - Forever People.mp3
+Mar 30 23:59 : update: added CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/08 - Phantoms (feat. Open Mike Eagle & Kendra Morris).mp3
+Mar 30 23:59 : update: added CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/06 - Captain Crunch.mp3
+Mar 30 23:59 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Mar 31 00:00 : player: played "CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/01 - Take Your Medicine.mp3"
+Mar 31 00:00 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Mar 31 00:07 : client: [2] closed
+Mar 31 09:00 : client: [3] opened from 127.0.0.1:58372
+Mar 31 09:00 : player: played "CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/02 - Meddle with Metal.mp3"
+Mar 31 09:00 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Mar 31 09:01 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Mar 31 09:01 : player: played "CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/01 - Take Your Medicine.mp3"
+Mar 31 09:02 : client: [3] closed
+Mar 31 09:02 : client: [4] opened from 127.0.0.1:58460
+Mar 31 09:04 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Mar 31 09:04 : player: played "CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/02 - Meddle with Metal.mp3"
+Mar 31 09:07 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Mar 31 09:07 : player: played "CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/03 - Badness of Madness.mp3"
+Mar 31 09:08 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Mar 31 09:08 : player: played "CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/04 - Close Talker.mp3"
+Mar 31 09:11 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Mar 31 09:11 : player: played "CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/05 - Forever People.mp3"
+Mar 31 09:15 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Mar 31 09:15 : player: played "CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/06 - Captain Crunch.mp3"
+Mar 31 09:17 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Mar 31 09:17 : player: played "CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/07 - Don't Spoil It.mp3"
+Mar 31 09:21 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Mar 31 09:21 : player: played "CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/08 - Phantoms (feat. Open Mike Eagle & Kendra Morris).mp3"
+Mar 31 09:26 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Mar 31 09:26 : player: played "CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/09 - Bomb Thrown.mp3"
+Mar 31 09:27 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Mar 31 09:27 : player: played "CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/10 - You Masked For It.mp3"
+Mar 31 09:31 : player: played "CZARFACE & MF DOOM - Czarface Meets Metal Face (2018) Mp3 (320kbps) [Hunter]/CZARFACE & MF DOOM - Czarface Meets Metal Face (2018)/11 - Astral Traveling (feat. Vinnie Paz).mp3"
+Mar 31 09:32 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Mar 31 09:37 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Mar 31 09:37 : player: played "The Six Parts Seven - Everywhere and Right Here/01 What You Love You Must Love Now.mp3"
+Mar 31 10:49 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Mar 31 10:53 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Mar 31 10:53 : ffmpeg/mp3: Header missing
+Mar 31 10:53 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Mar 31 10:54 : player: played "The Six Parts Seven - Everywhere and Right Here/02 Already Elsewhere.mp3"
+Mar 31 10:55 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Mar 31 10:55 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Mar 31 10:55 : player: played "The Six Parts Seven - Everywhere and Right Here/03 Saving Words for Making Sense.mp3"
+Mar 31 10:55 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 31 11:01 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 31 11:01 : player: played "Job 2 Do - No War/01 - Kun So.m4a"
+Mar 31 11:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 31 11:06 : player: played "Job 2 Do - No War/02 - Kamlang Gai.m4a"
+Mar 31 11:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 31 11:12 : player: played "Job 2 Do - No War/03 - Do To Tam.m4a"
+Mar 31 11:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 31 11:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 31 22:03 : config: inotify: auto_update was disabled. enable during compilation phase
+Mar 31 22:03 : config: option 'enabled' on line 27 was not recognized
+Mar 31 22:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 31 22:04 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 02 13:56 : client: [0] opened from 127.0.0.1:62331
+Apr 02 13:56 : update: added [Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - Beneath The Brine - 2013/06 The Water's Fine.mp3
+Apr 02 13:56 : update: added [Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - Beneath The Brine - 2013/01 Beneath the Brine.mp3
+Apr 02 13:56 : update: added [Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - Beneath The Brine - 2013/03 Love Don't Go.mp3
+Apr 02 13:56 : update: added [Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - Beneath The Brine - 2013/08 She Knows My Name.mp3
+Apr 02 13:56 : update: added [Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - Beneath The Brine - 2013/10 When the Lights Go Out.mp3
+Apr 02 13:56 : update: added [Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - Beneath The Brine - 2013/12 Make Me a Boat.mp3
+Apr 02 13:56 : update: added [Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - Beneath The Brine - 2013/11 There's a Thunder.mp3
+Apr 02 13:56 : update: added [Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - Beneath The Brine - 2013/07 I Am the Winter.mp3
+Apr 02 13:56 : update: added [Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - Beneath The Brine - 2013/05 Howl.mp3
+Apr 02 13:56 : update: added [Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - Beneath The Brine - 2013/09 As We Move Forward.mp3
+Apr 02 13:56 : update: added [Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - Beneath The Brine - 2013/02 The World.mp3
+Apr 02 13:56 : update: added [Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - Beneath The Brine - 2013/04 William's Dirge.mp3
+Apr 02 13:56 : update: added [Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - The Headwinds [EP] - 2013/04 - Brittle Bones.mp3
+Apr 02 13:56 : update: added [Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - The Headwinds [EP] - 2013/02 - Love Don't Go.mp3
+Apr 02 13:56 : update: added [Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - The Headwinds [EP] - 2013/03 - The Headwinds.mp3
+Apr 02 13:56 : update: added [Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - The Headwinds [EP] - 2013/01 - The River.mp3
+Apr 02 13:56 : update: added [Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - The Headwinds [EP] - 2013/05 - Marry Me.mp3
+Apr 02 13:56 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Apr 02 14:02 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Apr 02 14:02 : player: played "[Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - Beneath The Brine - 2013/01 Beneath the Brine.mp3"
+Apr 02 14:43 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Apr 02 14:48 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Apr 02 14:48 : player: played "[Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - Beneath The Brine - 2013/02 The World.mp3"
+Apr 02 21:48 : client: [0] closed
+Apr 03 15:18 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 03 15:18 : config: option 'enabled' on line 27 was not recognized
+Apr 03 16:32 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 03 16:32 : config: option 'enabled' on line 27 was not recognized
+Apr 06 23:06 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 06 23:06 : config: option 'enabled' on line 27 was not recognized
+Apr 09 19:12 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 09 19:12 : config: option 'enabled' on line 27 was not recognized
+Apr 10 17:29 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 10 17:29 : config: option 'enabled' on line 27 was not recognized
+Apr 10 20:55 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 10 20:55 : config: option 'enabled' on line 27 was not recognized
+Apr 12 16:33 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 12 16:33 : config: option 'enabled' on line 27 was not recognized
+Dec 31 18:00 : config: inotify: auto_update was disabled. enable during compilation phase
+Dec 31 18:00 : config: option 'enabled' on line 27 was not recognized
+Apr 13 13:50 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 13 13:50 : config: option 'enabled' on line 27 was not recognized
+Apr 17 22:17 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 17 22:17 : config: option 'enabled' on line 27 was not recognized

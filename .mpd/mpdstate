@@ -1,0 +1,26 @@
+sw_volume: 93
+audio_device_state:1:CoreAudio
+state: stop
+current: 0
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Job 2 Do - No War/01 - Kun So.m4a
+1:Job 2 Do - No War/02 - Kamlang Gai.m4a
+2:Job 2 Do - No War/03 - Do To Tam.m4a
+3:Job 2 Do - No War/04 - Mong Hai.m4a
+4:Job 2 Do - No War/05 - No War.m4a
+5:Job 2 Do - No War/06 - Sang Ka O.m4a
+6:Job 2 Do - No War/07 - Lai King.m4a
+7:Job 2 Do - No War/08 - Bang Tet.m4a
+8:Job 2 Do - No War/09 - Pieng Sak Kang.m4a
+9:Job 2 Do - No War/10 - Ko Payam.m4a
+10:Job 2 Do - No War/11 - Ragge Ok Hack.m4a
+11:[Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - Beneath The Brine - 2013/01 Beneath the Brine.mp3
+12:[Indie - Orchestral] The Family Crest - Beneath the Brine + The Headwinds [EP] 2013 (By Jamal The Moroccan)/The Family Crest - Beneath The Brine - 2013/02 The World.mp3
+playlist_end
